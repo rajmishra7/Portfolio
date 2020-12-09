@@ -10,7 +10,8 @@
 body{
     font-family: 'Montserrat', sans-serif;
     margin: auto;
-    max-width: 600px;
+    /* max-width: 600px; */
+    width: 100%;
 }
 
 hr{
@@ -150,3 +151,4 @@ hr{
 .footer .links:hover{
     background-color: #727274;
 }
+
